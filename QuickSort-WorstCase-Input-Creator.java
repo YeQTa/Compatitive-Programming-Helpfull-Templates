@@ -12,12 +12,12 @@ public class Solution {
 /*
  *
  * @Author Yekta Anıl Aksoy
- * This code is created at 02/04/2017
+ * This code is created on 02/04/2017
  * Fast Reader class is used for making fast input / output operation
  *
- * This code gets input n to create an array which includes numbers 1 to n and
- * This code arrange these numbers to get WORST CASE SCENARIO for QuickSort when Pivot is chosen as mid.
- * Output count is stand for number of comparison in QuickSort.
+ * Main purpose is to get input n to create an array that includes numbers 1 to n and
+ * Arrange these numbers to make WORST CASE SCENARIO for QuickSort when Pivot is chosen as mid.
+ * Output count demonstrates a number of comparisons in QuickSort.
  */
 
 
